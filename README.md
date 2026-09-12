@@ -11,4 +11,8 @@ Pages has something public to serve from.
 Updated via `scripts/deploy_web.sh` in the source repo — not meant to be hand-edited.
 
 ## Preserved snapshots
-- [0.5.0](./0.5.0/) -- frozen milestone build, never overwritten.
+- [full-world-0.3.0](./full-world-0.3.0/) -- the last build with the old
+  full region-graph world (12 regions), frozen just before the scope
+  reduction to one composite Lake.
+- [0.5.0](./0.5.0/) -- frozen milestone build, never overwritten. Last
+  version before a major departure in fishing mechanics.
