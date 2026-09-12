@@ -9,3 +9,6 @@ tooling live in the private `Reel-Deal` repo; this one exists solely so GitHub
 Pages has something public to serve from.
 
 Updated via `scripts/deploy_web.sh` in the source repo — not meant to be hand-edited.
+
+## Preserved snapshots
+- [0.5.0](./0.5.0/) -- frozen milestone build, never overwritten.
