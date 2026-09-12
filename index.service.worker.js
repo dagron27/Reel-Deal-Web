@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789166202|9254233';
+const CACHE_VERSION = '1789172226|9419831';
 /** @type {string} */
 const CACHE_PREFIX = 'Reel-Deal-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
